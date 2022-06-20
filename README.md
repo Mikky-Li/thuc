@@ -3,3 +3,4 @@ THUC News Text Classification downstream task using bert-base-chinese on Papersp
 
 Add PyTorch version of bert-base-chinese to ./bert_pretrain
 
+Saved model (CKPT) to ./THUC
